@@ -1,15 +1,16 @@
 *.class
 
 # Package Files #
-10	*.jar
-11	*.war
-12	*.ear
+*.jar
+*.war
+*.ear
 
 # Intellij
 *.iml
-.idea/*
 /out/*
 /build/*
 /bin/*
 
 .myumldata
+.idea/
+build/
